@@ -1,0 +1,104 @@
+body ,html{
+    background-color: #8e2d9b;
+}
+.Main{
+    background-color: #181F38;
+    width: 90%;
+    height: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 30px;
+    display: flex;
+
+}
+.Main .left h1{
+    font-family: "Boldonse", system-ui;
+    position: absolute;
+    margin-left: 500px;
+    font-style: normal;
+    font-weight: bolder;
+    color: #633469;
+    font-size: 80px;
+}
+.left{
+    height: 900px;
+    width: 70%;
+}
+.right{
+    height: 900px;
+    background-color: #0B132B;
+    border-radius: 30px;
+    width: 30%;
+    overflow-x: hidden;
+}
+.Isaac {
+    position: absolute;
+    margin-left: -430px;
+    margin-top: -707px;
+}
+.left h2{
+    font-size: 30px;
+    color: #5a3c5e;
+    width: 400px;
+    margin-top: 180px;
+    margin-left: 600px;
+    font-family: "Boldonse", system-ui;
+    font-style: normal;
+    font-weight: bolder;
+}
+.left h3{
+    margin-top: -300px;
+    margin-left: 30px;
+    font-family: "Boldonse", system-ui;
+    font-style: normal;
+    font-weight: bolder;
+    color: #5a3c5e;
+}
+.left h4{
+    margin-left: 30px;
+    font-family: "Boldonse", system-ui;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 15px;
+    color: #5a3c5e;
+    width: 400px;
+}
+.right{
+    scrollbar-width: none;
+    display: flex;
+    flex-direction: column;
+}
+.right h1{
+    color: #633469;
+    font-size: 40px;
+    width: 30px;
+    text-align: center;
+    font-family: "Boldonse", system-ui;
+    font-style: normal;
+    font-weight: bolder;
+    margin-left: 30px;
+}
+.right h2{
+    font-size: 18px; 
+    color: #5a3c5e;
+    font-family: "Boldonse", system-ui;
+    font-style: normal;
+    font-weight: bolder;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.right h3 {
+    color: #5a3c5e;
+    font-family: "Boldonse", system-ui;
+    font-style: normal;
+    font-weight: bolder;
+}
+.right h4 a{
+    font-family: "Boldonse", system-ui;
+    font-style: normal;
+    font-weight: bolder;
+    color: #5a3c5e;
+    text-decoration: none;
+}
